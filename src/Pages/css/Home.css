@@ -10,7 +10,7 @@
 }
 
 p{
-    font-family: 'Poppins', sans-serif;
-    font-weight:300,
+    font-family: 'Poppins', sans-serif !important;
+    font-weight:300 !important,
 }
     
